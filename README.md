@@ -1,0 +1,2 @@
+# printTime
+Print the time.
