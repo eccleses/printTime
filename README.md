@@ -1,2 +1,2 @@
 # printTime
-Print the time.
+This library prints the time when prompted with pylarm.Print.Time()
